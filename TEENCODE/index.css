@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-image: url("images.jpg");
+    border: 100px;
+}
+body{
+    background-color: gray;
+    background-size: 100%;
+}
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
